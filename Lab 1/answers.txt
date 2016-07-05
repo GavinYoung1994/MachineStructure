@@ -1,0 +1,10 @@
+More GDB Commands:
+1. run [argument list]
+2. break [line number] if [expression]
+3. next or n
+4. step or s
+5. continue or c
+6. print or p
+7. display
+8. info locals
+9. quit

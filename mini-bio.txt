@@ -1,0 +1,23 @@
+Name: Zhenghao Yang
+Login: cs61c-cq
+E-mail: gavinyoung1994@gmail.com
+Section: 106
+
+--> Where did you grow up? What was your academic path?
+I grew up in a major city in China. After high school, I came to American to study philosophy and computer science.
+
+--> How much programming have you done (and what language)?
+I have been studying computer science for two years and I program in Python, JavaScript, and Java.
+
+--> What are your hobbies?
+I like playing video games and playing soccer.
+
+--> What are some of your talents and skills?
+I do not think I have any talent, but I have some coding skills.
+
+--> Have you done anything remarkable? Has anything really memorable happened to you?
+Not really, my experience is pretty average.
+
+--> What commitments will be consuming your cycles this term?
+I will do my best to learn.
+
