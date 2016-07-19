@@ -1,0 +1,13 @@
+Scenario 1
+1. Because the block size is equal to the step size.
+2. It stays 0%, because it keeps hitting the same block no matter how many times we run it.
+3. We can minimize step size and change option to 1 to maximize our hit rate to 75%.
+
+Scenario 2
+1. Larger step size = lower hit rate, larger rep count = higher hit rate, option 1 = higher hit rate, option 0 = lower hit rate, array size does not change hit rate.
+2. As Rep Count goes to infinity, our hit rate goes to 100%.
+3. We can increase rep count so we resuse data and reduce the need to go to memory. Cache Blocking Technique.
+
+Scenario 3
+1. It is non-deterministic because every time we choose a random place in the cache to read and write the data. 
+2. Change rep code to 1

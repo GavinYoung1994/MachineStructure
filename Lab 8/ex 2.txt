@@ -1,0 +1,4 @@
+1. jki kji fastest
+2. kij ikj slowest
+3. If i is in the inner most loop, we have a higher hit rate and it is faster because B has 0 stride, A has 1 stride, and C has 1 stride.
+If j is in the inner most loop, we have a lower hit rate and it is slower because C and B has n stride and A has 0.
