@@ -1,0 +1,16 @@
+1E
+99
+BE
+FC
+C5
+74
+6F
+87
+37
+32
+
+TLB Hits 2
+TLB Misses 8
+Page Hits 0
+Page Faults 8
+
